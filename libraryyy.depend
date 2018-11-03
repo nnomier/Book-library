@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1513975249 source:c:\users\amaal\desktop\libraryyy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1514012279 source:c:\users\lenovo\desktop\project_4638_1\libraryyy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1514149918 source:c:\users\lenovo\desktop\project_4638_2\libraryyy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+

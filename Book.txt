@@ -1,0 +1,5 @@
+The Great Gatsby,F. Scott Fitzgerald,Pearson,0743273567,1925,50,2,Romance,3
+The Grapes of Wrath,John Steinbeck,ThomsonReuters,0143039431,1939,20,19,Fiction,1
+The Lord of the Rings,J.R.R. Tolkien,Pearson,0544003411,1954,30,29,Fantasy,1
+Invisible Man,Ralph Ellison,Harper Collins,0679732764,1974,40,39,Fiction,1
+Gone With The wind,Margaret Mitchell,Pearson,1451635621,June 30th 1936,60,59,Romance,1
